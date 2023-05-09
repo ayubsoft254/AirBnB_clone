@@ -5,7 +5,7 @@ from uuid import uuid4
 from datetime import datetime
 import unittest
 
-"""the Basemodel class test cases  """
+"""the Basemodel test cases class base """
 
 class TestBaseModelClass(unittest.TestCase):  
     
